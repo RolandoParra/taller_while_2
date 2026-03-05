@@ -33,3 +33,6 @@
 ## Capturas de funcionamiento:
 ![alt text](<password captura 1.jpg>)
 ![alt text](<password captura 2.jpg>)
+
+## estructura:
+ - todo el código está en el archivo "programa.py"

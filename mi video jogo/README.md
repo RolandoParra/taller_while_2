@@ -18,3 +18,6 @@
 ## Capturas:
 ![alt text](screen.jpg)
 ![alt text](<screen 2.jpg>)
+
+## estructura:
+ - todo el código está en el archivo "programa.py"

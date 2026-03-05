@@ -30,3 +30,6 @@ while vida_player > 0 and vida_enemigo > 0:
 
 ## Capturas:
 ![cap](<captura situación.jpg>)
+
+## estructura:
+ - todo el código está en el archivo "programa.py"
