@@ -1,1 +1,20 @@
-Crea un juego donde la computadora elija un número del 1 al 100 y el usuario tenga que adivinarlo. El bucle while debe repetirse hasta que el usuario acierte. El programa debe dar pistas: "Más alto" o "Más bajo"
+![Título](titulo.png)
+
+## Análisis
+
+### Variables de entrada:
+ - pc_number
+ - player_number
+
+### Processing
+ - while player_number != pc_number
+
+### Output
+ - "felicidades! adivinaste el número!!! ^w^"
+
+## Diagrama:
+![diagrama](diagrama.png)
+
+## Capturas:
+![alt text](screen.jpg)
+![alt text](<screen 2.jpg>)
