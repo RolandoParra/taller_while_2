@@ -1,1 +1,32 @@
-Situación: Tu personaje tiene 50 puntos de vida (HP). En cada turno, el jefe te quita una cantidad aleatoria de vida. Si tu vida baja de 0, pierdes.  Para este ejercicio consulte y haga uso de la instrucción break.
+![Título](titulo.png)
+
+## Análisis:
+### Variables de entrada:
+ - vida_player
+ - vida_enemigo
+ - ataque_player
+ - ataque_enemigo
+
+### procesing:
+while vida_player > 0 and vida_enemigo > 0:
+    ataque_player = random.randint(1, 20)
+    ataque_enemigo = random.randint(1, 20)
+    vida_enemigo -= ataque_player
+    vida_player -= ataque_enemigo
+    
+    if vida_player <= 0:
+        break
+    if vida_enemigo <= 0:
+        break
+
+### Output:
+ - vida_player
+ - vida_enemigo
+ - ataque_player
+ - ataque_enemigo
+
+## Diagrama:
+![diagrama](diagrama.png)
+
+## Capturas:
+![cap](<captura situación.jpg>)
