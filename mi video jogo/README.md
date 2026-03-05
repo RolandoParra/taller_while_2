@@ -1,0 +1,1 @@
+Crea un juego donde la computadora elija un número del 1 al 100 y el usuario tenga que adivinarlo. El bucle while debe repetirse hasta que el usuario acierte. El programa debe dar pistas: "Más alto" o "Más bajo"
