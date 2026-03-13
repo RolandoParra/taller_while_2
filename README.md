@@ -33,7 +33,34 @@
 ![alt text](<mi video jogo/diagrama.png>)
 
 
+### 4.
+![alt text](<pelota rebotona/titulo.png>)
+
+#### captura:
+![alt text](<pelota rebotona/screenshot.png>)
+
+#### diagrama:
+![alt text](<pelota rebotona/diagrama.png>)
+
+
+### 5.
+![alt text](<negocio de Pedro y Juan/titulo.png>)
+
+#### captura:
+![alt text](<negocio de Pedro y Juan/screenshot.png>)
+
+#### diagrama:
+![ayuda](<negocio de Pedro y Juan/diagrama.png>)
+
+
+
+
+
 ## Estructuras:
  - todos los códigos están en sus respectivos "programa.py"
 
 ![alt text](omg.gif)
+
+
+## Foto del autor:
+![yo](autor.png)

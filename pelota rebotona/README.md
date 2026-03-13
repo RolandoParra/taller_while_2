@@ -23,3 +23,6 @@
 
 ## Scheenshot del programa:
 ![screenshot](screenshot.png)
+
+## construcción
+ - codigo implementado en el archivo "programa.py"
